@@ -68,7 +68,9 @@
 | 🃏 [**TCG Store**](https://tcg-store-sage.vercel.app) | Ecommerce platform for trading cards, with live catalog and admin panel. Live demo. | Next.js · TypeScript · Supabase · Tailwind |
 | 🎨 [**omarchy-zen**](https://github.com/Davidxap/omarchy-zen) | Plugin that syncs the Omarchy system theme into the Zen browser. | Shell · CSS |
 | ⚽ Skorify | Sports prediction app built with the AWS User Group Manizales. | React · Next.js |
-| 📖 [**JavaScript para Subir de Nivel**](https://davidxap.github.io/book/) | My study notes turned into a book (Spanish and English). | VitePress (migrating to Astro) |
+| 🌤️ [**Weather App**](https://github.com/Davidxap/weather-app-react) | Weather app with OpenWeatherMap API. My early React project (redeploy pending). | React · Tailwind |
+| 🎬 [**Studio Ghibli Explorer**](https://github.com/Davidxap/studio-ghilbli-api) | Browser for the Studio Ghibli API. Early project (redeploy pending). | JavaScript · REST API |
+| 📖 [**JavaScript para Subir de Nivel**](https://davidxap.github.io/javascript-para-subir-de-nivel/) | My study notes turned into a book (Spanish and English). | Astro · Starlight |
 
 ---
 
@@ -85,5 +87,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/davidxaperez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:davidxap@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://davidxap.github.io/book/"><img src="https://img.shields.io/badge/📖_My_Book-89B4FA?style=for-the-badge&logoColor=1e1e2e"/></a>
+  <a href="https://davidxap.github.io/javascript-para-subir-de-nivel/"><img src="https://img.shields.io/badge/📖_My_Book-89B4FA?style=for-the-badge&logoColor=1e1e2e"/></a>
 </p>
