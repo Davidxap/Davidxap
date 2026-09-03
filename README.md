@@ -68,8 +68,8 @@
 | 🃏 [**TCG Store**](https://tcg-store-sage.vercel.app) | Ecommerce platform for trading cards, with live catalog and admin panel. Live demo. | Next.js · TypeScript · Supabase · Tailwind |
 | 🎨 [**omarchy-zen**](https://github.com/Davidxap/omarchy-zen) | Plugin that syncs the Omarchy system theme into the Zen browser. | Shell · CSS |
 | ⚽ Skorify | Sports prediction app built with the AWS User Group Manizales. | React · Next.js |
-| 🌤️ [**Weather App**](https://github.com/Davidxap/weather-app-react) | Weather app with OpenWeatherMap API. My early React project (redeploy pending). | React · Tailwind |
-| 🎬 [**Studio Ghibli Explorer**](https://github.com/Davidxap/studio-ghilbli-api) | Browser for the Studio Ghibli API. Early project (redeploy pending). | JavaScript · REST API |
+| 🌤️ [**Weather App**](https://weather-app-react-two-wine.vercel.app/) | University project. Weather app consuming the OpenWeatherMap API. | React · Tailwind |
+| 🎬 [**Studio Ghibli Explorer**](https://studio-ghilbli-api-nine.vercel.app/) | University project. Browser for the Studio Ghibli API. | JavaScript · REST API |
 | 📖 [**JavaScript para Subir de Nivel**](https://davidxap.github.io/javascript-para-subir-de-nivel/) | My study notes turned into a book (Spanish and English). | Astro · Starlight |
 
 ---
