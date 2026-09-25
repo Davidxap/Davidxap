@@ -81,11 +81,3 @@
 - ☕ **Fuel** — Slow brewed coffee: French press or Italian moka pot.
 
 ---
-
-### Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davidxaperez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:davidxap@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://davidxap.github.io/javascript-para-subir-de-nivel/"><img src="https://img.shields.io/badge/📖_My_Book-89B4FA?style=for-the-badge&logoColor=1e1e2e"/></a>
-</p>
