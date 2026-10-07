@@ -81,3 +81,11 @@
 - ☕ **Fuel** — Slow brewed coffee: French press or Italian moka pot.
 
 ---
+
+### ☕ Support
+
+If any of this has been useful — a shell, a plugin, a note you didn't have to Google twice — you can [buy me a coffee](https://buymeacoffee.com/davidxap).
+
+I'll keep writing and building either way. This just makes it a bit easier to keep going, and it tells me someone's actually reading.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-Support-yellow)](https://buymeacoffee.com/davidxap)
