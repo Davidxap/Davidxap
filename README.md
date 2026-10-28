@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:45475a,100:89b4fa&height=200&section=header&text=David%20Arturo%20Arroyave%20P%C3%A9rez&fontSize=34&fontColor=cdd6f4&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Colombia&descFontColor=a6adc8&descSize=16&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,40:45475a,100:89b4fa&height=200&section=header&text=David%20Arturo%20Arroyave%20P%C3%A9rez&fontSize=34&fontColor=cdd6f4&fontAlignY=40&desc=Product%20Engineering%20%C3%97%20AI%20%E2%80%A2%20Colombia&descFontColor=a6adc8&descSize=16&descAlignY=62" width="100%"/>
 </p>
 
-> I'm a developer from Colombia. Most of my work is in the JavaScript ecosystem: React, Next.js, Node. I also like Python a lot for its flexibility, and lately I've been getting into cloud with AWS, some Go, and design patterns.
+> I work on product engineering with AI: building products end-to-end and using AI agents (Claude Code, OpenCode) as part of the day-to-day workflow, from prototype to shipped feature. My base is the JavaScript ecosystem — React, Next.js, Node — with Python for its flexibility, and some Go and cloud (AWS) along the way.
 >
 > I keep organized notes on what I learn, and some of my JavaScript ones grew so much that they became a didactic book. If they helped me, maybe they'll help someone else.
 >
-> I'm drawn to Linux and open source because of the community behind it: people helping each other build things. I also get genuine enthusiasm out of trying AI agents and turning them into useful day-to-day workflows.
+> I'm drawn to Linux and open source because of the community behind it: people helping each other build things. That cooperative part is what keeps me around.
 
 ---
 
@@ -65,6 +65,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| 🖥️ [**Portfolio**](https://davidxap.github.io/portfolio/) | Interactive portfolio presented as a Linux-style desktop of Manizales: six places, arcade minigames, eight themes, EN/ES. Also the one-page direct view. | Next.js · React · TypeScript · Tailwind |
 | 🃏 [**TCG Store**](https://tcg-store-sage.vercel.app) | Ecommerce platform for trading cards, with live catalog and admin panel. Live demo. | Next.js · TypeScript · Supabase · Tailwind |
 | 🎨 [**omarchy-zen**](https://github.com/Davidxap/omarchy-zen) | Plugin that syncs the Omarchy system theme into the Zen browser. | Shell · CSS |
 | ⚽ Skorify | Sports prediction app built with the AWS User Group Manizales. | React · Next.js |
